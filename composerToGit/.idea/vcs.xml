@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-careers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-cta-widget" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-dealer-hours" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-faq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-featvehicle-slider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-google-analytics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-inventory-listing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-meet-the-team" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-popup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-promos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-reviews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-schema" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-showroom-slider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-vehicle-retargeting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-wp-options" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ed-wp-widgets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/plugins/ml-slider-pro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site-clean/wp-content/themes/ed-template-6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-careers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-cta-widget" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-dealer-hours" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-faq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-featvehicle-slider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-google-analytics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-inventory-listing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-meet-the-team" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-popup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-promos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-reviews" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-schema" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-showroom-slider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-vehicle-retargeting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-wp-options" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ed-wp-widgets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/plugins/ml-slider-pro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test-site/wp-content/themes/ed-template-6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/plugins/ml-slider-pro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wp-content/themes/ed-template-6" vcs="Git" />
+  </component>
+</project>
